@@ -1,7 +1,7 @@
 # TwoRageAutoRep_t
 Spring 2019 Senior Project 
 
-A Java Application intended to beu sed by small car mechnaic shops to create invoices and store vehicle/mechanic records for clients 
+A Java Application intended to be used by small car mechnaic shops to create invoices and store vehicle/mechanic records for clients 
 through a remote server database.
 
 The project also features several functionalities for both employees and clients. Hence this project can be considered to be two 
