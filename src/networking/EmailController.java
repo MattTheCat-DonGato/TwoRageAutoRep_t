@@ -104,7 +104,7 @@ public class EmailController
                                 String port = myEmail.getPort();
                                 myEmail.setMailFrom("tworageautomotive96@gmail.com");
                                 String mailFrom = myEmail.getMailFrom();
-                                myEmail.setPassword("tworage_96");
+                                myEmail.setPassword("");
                                 String password = myEmail.getPassword();
                                 String toAddress = emailModel.SelectCustomerEmailAddress(cID);
                                 String subject = emailView.GetEmailForm().GetSubjectTF().getText();
